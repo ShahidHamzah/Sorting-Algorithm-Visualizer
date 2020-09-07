@@ -6,7 +6,7 @@ Creator: Hamzah Shahid
 Sorting Algorithm Visualizer is a Python program built in
 PyGame to show how different sorting algorithms work. 
 
-link to executable build:
+link to executable build (found in build folder under sorter.exe):
 https://drive.google.com/drive/folders/12917k-jQjuyKFKhNyOaVebPEOEw6WCB_?usp=sharing
 
 INTERFACE:
