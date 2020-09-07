@@ -7,7 +7,7 @@ Sorting Algorithm Visualizer is a Python program built in
 PyGame to show how different sorting algorithms work. 
 
 link to executable build:
-
+https://drive.google.com/drive/folders/12917k-jQjuyKFKhNyOaVebPEOEw6WCB_?usp=sharing
 
 INTERFACE:
 - When starting the program, a set of buttons, a slider, and a 
